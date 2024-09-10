@@ -1,0 +1,3 @@
+PNG aspect ratio:
+  w = 1432.000
+  h = 1080.000
